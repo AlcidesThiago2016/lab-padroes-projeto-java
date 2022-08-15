@@ -2,22 +2,22 @@
 
 Codigos Elaborados dentro do Bootcamp Santander Developer FullStack 2022
 
-rocket Começando
+🚀 Começando
 
-Introduzido os conceitos de desing patterts.
+Implementando conceitos de Design Patterns.
 
-hammer_and_wrench Construído com
+🛠️ Construído com
 
-*Visual Studio - Ide
+*Intellij Idea
 
-pushpin Versão
+📌 Versão
 
 O controle de versionamento e do GitHub.
 
-black_nib Autores
+✒️ Autores
 
 Alcides Thiago
 
-gift Expressão de gratidão
+🎁 Expressão de gratidão
 
-keyboard com heart por Alcides Thiago blush
+⌨️ com ❤️ por Alcides Thiago 😊
